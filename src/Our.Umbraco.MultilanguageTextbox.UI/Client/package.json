@@ -15,7 +15,7 @@
 	},
 	"devDependencies": {
 		"@umbraco-cms/backoffice": "^15.2.2",
-		"vite": "^6.2.2",
+		"vite": "^6.2.5",
 		"@umbraco-ui/uui": "^1.12.2"
 	}
 }
